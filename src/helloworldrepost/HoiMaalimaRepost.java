@@ -8,12 +8,12 @@ package helloworldrepost;
  *
  * @author s1100900
  */
-public class HelloworldRepost {
+public class HoiMaalimaRepost {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hoi Maailma");
     }
 }
